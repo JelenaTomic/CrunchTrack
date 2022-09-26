@@ -8,7 +8,10 @@ router.get('/workouts', (req, res) => {
         'id',
         'workout_name',
         'workout_image',
-        'workout_url'
+        'workout_url',
+        'weight',
+        'reps',
+        'sets'
         
         
     ],
