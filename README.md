@@ -9,6 +9,29 @@ https://github.com/Crunch-Track-Team-5/CrunchTrack
 PowerPoint:
  https://docs.google.com/presentation/d/1bz_zafnAXQU2rJ17ZCdD2IDATAgos_npMCLFVEx4Q2g/edit?usp=sharing
 
+## Working Agreement 
+Group Expectations
+Communicate
+Clear with group before working on different files
+Don’t go rogue 
+Pitch idea before applying 
+Support each other
+Group check-ins at start and end of each meeting 
+Be kind and ask questions 
+Learn from each other 
+<br>
+Meeting Times 
+Weekends
+<br>
+How will we make sure everyone feels included?
+Group check-ins at each meeting
+Do you feel your ideas were represented?
+Is there anything you need support with?
+Have clear expectations in list form for each person
+<br>
+Ways we can support each other throughout project:
+Lists are great!
+Be patient and flexible – let people think through their own process and working habits. Remember as long as it gets done and done well, it’s okay. We’re here to learn! :) 
 
 ## Table of Contents:
   1. [Description](#Description)
