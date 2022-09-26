@@ -19,6 +19,11 @@ Crunch Track is a user friendly app that allows the user to follow a workout rou
 ## Usage 
 You'll create an account with Crunch Track and then log in next time you visit. You'll select a workout to complete the exercises included. You can also make any notes on your progress.
 
+<img width="1205" alt="demo website" src="/Users/adrianavillegas/bootcamp/Project2/crunchtrackproject/CrunchTrack/public/assets/images/Crunch track.png">
+
+<img width="1205" alt="demo website" src="/Users/adrianavillegas/bootcamp/Project2/crunchtrackproject/CrunchTrack/public/assets/images/Exercises.png">
+
+exercises
 ## Credits
 Youtube
 Google
@@ -26,4 +31,8 @@ Tutors
 StackoverFlow 
 
 ## Questions
-Reach out to Jelena, Adriana, Ivan or Nick for more questions.
+Reach out to us with any questions!
+Jelena: https://github.com/JelenaTomic
+Adriana: https://github.com/Adriana1013
+Ivan: https://github.com/Iramirez108 
+or Nick: https://github.com/Nchirico04
