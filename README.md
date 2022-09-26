@@ -1,7 +1,7 @@
 # CrunchTrack
 
 Deployed app: 
-https://crunch-track-team-5.github.io/CrunchTrack/ 
+https://arcane-citadel-77295.herokuapp.com/
 
 Github: 
 https://github.com/Crunch-Track-Team-5/CrunchTrack 
