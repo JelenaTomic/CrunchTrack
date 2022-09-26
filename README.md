@@ -35,7 +35,10 @@ StackoverFlow
 
 ## Questions
 Reach out to us with any questions!
-[Jelena] (https://github.com/JelenaTomic)
-[Adriana] (https://github.com/Adriana1013)
-[Ivan] (https://github.com/Iramirez108) 
-or [Nick] (https://github.com/Nchirico04)
+Jelena: https://github.com/JelenaTomic
+<br>
+Adriana: https://github.com/Adriana1013
+<br>
+Ivan: https://github.com/Iramirez108
+<br>
+or Nick: https://github.com/Nchirico04
