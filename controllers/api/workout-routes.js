@@ -2,7 +2,7 @@ const router = require('express').Router();
 const {Workout, Category} = require('../../models');
 
 //get all workouts from database 
-router.get('/workouts', (req, res) => {
+router.get('/workout', (req, res) => {
     Workout.findAll({
         attributes: [
         'id',
@@ -29,7 +29,7 @@ router.get('/workouts', (req, res) => {
     });
 });
 
-router.get('/workouts/:workout_name', (req, res) => {
+router.get('/workout/:workout_name', (req, res) => {
     Workout.findOne({
         where: {
             workout_name: req.params.workout_name

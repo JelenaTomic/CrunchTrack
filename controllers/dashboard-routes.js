@@ -73,7 +73,11 @@ router.get('/workout/:workout_name', withAuth, (req, res) => {
             'workout_name',
             'workout_image',
             'workout_url',
-            'created_at'
+            'created_at',
+            'weight',
+            'reps',
+            'sets'
+
         ],
             include: [
                 {
