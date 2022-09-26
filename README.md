@@ -21,15 +21,24 @@ Crunch Track is a user friendly app that allows the user to follow a workout rou
 You'll create an account with Crunch Track and then log in next time you visit. You'll select a workout to complete the exercises included. You can also make any notes on your progress.
 <br>
 After entering the page user will be presented with login or signup page in order to continue.
+<br>
 ![](./public/assets/readme/pc1.png)
 ![](./public/assets/readme/pc2.png)
+<br>
 After loging in user have to make a choice what part of the body exercise will be focused on 
+<br>
 ![](./public/assets/readme/pc3.png)
+<br>
 When the choice is made user will be presented with the list of the exercise for that group
+<br>
 ![](./public/assets/readme/pc4.png)
+<br>
 User can enter every exercise in order to see recommended weight, reps and set or click on the exercise picture in order to be taken to YouTube video
+<br>
 ![](./public/assets/readme/pc5.png)
+<br>
 User will be also able to add a comment, thought or make a note for the future self
+<b>
 ![](./public/assets/readme/pc6.png)
 ![](./public/assets/readme/pc7.png)
 ## Installation
@@ -42,12 +51,16 @@ Run npm start or node server.js
 
 ## Credits
 Youtube
+<br>
 Google
+<br>
 Tutors
+<br>
 StackoverFlow 
 
 ## Questions
 Reach out to us with any questions!
+<br>
 Jelena:
 <br>
 [GitHub](https://github.com/JelenaTomic)
@@ -59,6 +72,7 @@ Adriana:
 Ivan:
 <br>
 [GitHub](https://github.com/Iramirez108)
+<br>
 or Nick:
 <br>
 [GitHub](https://github.com/Nchirico04)
