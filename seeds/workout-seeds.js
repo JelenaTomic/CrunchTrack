@@ -51,7 +51,7 @@ const workoutData = [
   {
     workout_name: 'Barbell Deadlifts',
     workout_image: 'deadlifts.jpg',
-    workout_url: 'https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/10/hammer-curl/'
+    workout_url: 'https://www.youtube.com/watch?v=a5zhnubunoE'
 ,
     weight :125,
     reps : 8,
@@ -71,7 +71,7 @@ const workoutData = [
   {
     workout_name: 'Face pulls',
     workout_image: 'face-pulls.jpeg',
-    workout_url: 'https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/11/back-squat/'
+    workout_url: 'https://www.youtube.com/watch?v=tkLTR4b6cAk'
 ,
     weight:40,
     reps : 10 ,
@@ -81,7 +81,7 @@ const workoutData = [
   {
     workout_name: 'Deadlifts',
     workout_image: 'deadlifts.jpg',
-    workout_url: 'https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/366/bulgarian-split-squat/'
+    workout_url: 'https://www.youtube.com/watch?v=a5zhnubunoE'
 ,
     weight: 125,
     reps : 8,
