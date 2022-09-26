@@ -9,6 +9,7 @@ https://github.com/Crunch-Track-Team-5/CrunchTrack
 ## Table of Contents:
   1. [Description](#Description)
   2. [Usage](#Usage)
+  3. [Installation](#Installation)
   3. [License](#License)
   4. [Credits](#Credits)
   5. [Questions](#Questions) 
@@ -18,13 +19,25 @@ Crunch Track is a user friendly app that allows the user to follow a workout rou
 
 ## Usage 
 You'll create an account with Crunch Track and then log in next time you visit. You'll select a workout to complete the exercises included. You can also make any notes on your progress.
-
-
-<img width="1205" alt="demo website" src="/Users/adrianavillegas/bootcamp/Project2/crunchtrackproject/CrunchTrack/public/assets/images/Crunch track.png">
-
-<img width="1205" alt="demo website" src="/Users/adrianavillegas/bootcamp/Project2/crunchtrackproject/CrunchTrack/public/assets/images/Exercises.png">
-
-
+<br>
+After entering the page user will be presented with login or signup page in order to continue.
+![](./public/assets/readme/pc1.png)
+![](./public/assets/readme/pc2.png)
+After loging in user have to make a choice what part of the body exercise will be focused on 
+![](./public/assets/readme/pc3.png)
+When the choice is made user will be presented with the list of the exercise for that group
+![](./public/assets/readme/pc4.png)
+User can enter every exercise in order to see recommended weight, reps and set or click on the exercise picture in order to be taken to YouTube video
+![](./public/assets/readme/pc5.png)
+User will be also able to add a comment, thought or make a note for the future self
+![](./public/assets/readme/pc6.png)
+![](./public/assets/readme/pc7.png)
+## Installation
+From Git Hub repository click CODE box, select SSH and copy the repository to your clipboard. In your command-line navigate to the folder you want to hold the repository. When cloning is completed open th VS code by typing 'code .' in your terminal. After that you will need to open terminal in your VS and create package.json by typing 'npm init' in your terminal. 
+You will also have to install mysql, inquirer,dotenv,express,sequelize and nodemon.
+Npm run seed
+<br>
+Run npm start or node server.js
 
 
 ## Credits
@@ -35,10 +48,17 @@ StackoverFlow
 
 ## Questions
 Reach out to us with any questions!
-Jelena: https://github.com/JelenaTomic
+Jelena:
 <br>
-Adriana: https://github.com/Adriana1013
+[GitHub](https://github.com/JelenaTomic)
 <br>
-Ivan: https://github.com/Iramirez108
+Adriana:
 <br>
-or Nick: https://github.com/Nchirico04
+[GitHub](https://github.com/Adriana1013)
+<br>
+Ivan:
+<br>
+[GitHub](https://github.com/Iramirez108)
+or Nick:
+<br>
+[GitHub](https://github.com/Nchirico04)
