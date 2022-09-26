@@ -40,7 +40,7 @@ const workoutData = [
     category_id: 1,
   },
   {
-    workout_name: 'Bicep Curls',
+    workout_name: 'Dumbbell Bicep Curls',
     workout_image: 'bicep-curls.jpeg',
     workout_url: 'https://www.youtube.com/watch?v=3OZ2MT_5r3Q',
     weight: 45,
@@ -49,7 +49,7 @@ const workoutData = [
     category_id: 1,
   },
   {
-    workout_name: 'Deadlifts',
+    workout_name: 'Barbell Deadlifts',
     workout_image: 'deadlifts.jpg',
     workout_url: 'https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/10/hammer-curl/'
 ,
@@ -59,7 +59,7 @@ const workoutData = [
     category_id: 1,
   },
   {
-    workout_name: 'Bench Press',
+    workout_name: 'Barbell Bench Press',
     workout_image: 'bench-press.jpeg',
     workout_url: 'https://www.youtube.com/watch?v=Qjxrp9Hwv_Q'
 ,
@@ -69,7 +69,7 @@ const workoutData = [
     category_id: 2,
   },
   {
-    workout_name: 'Face-pulls',
+    workout_name: 'Face pulls',
     workout_image: 'face-pulls.jpeg',
     workout_url: 'https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/11/back-squat/'
 ,
@@ -89,7 +89,7 @@ const workoutData = [
     category_id: 2,
   },
   {
-    workout_name: 'Overhead press',
+    workout_name: ' Barbell Overhead press',
     workout_image: 'overhead-press.jpeg',
     workout_url: 'https://www.youtube.com/watch?v=8E4oWpi0RkA'
 ,
@@ -118,7 +118,7 @@ const workoutData = [
     category_id: 2,
   },
   {
-    workout_name: 'Barbell Squat',
+    workout_name: ' Sumo Squat',
     workout_image: 'barbell-squat.jpeg',
     workout_url: 'https://www.youtube.com/watch?v=tVB1q8zkP3o',
     weight:125,
@@ -136,7 +136,7 @@ const workoutData = [
     category_id: 3,
   },
   {
-    workout_name: 'Calf-Raises',
+    workout_name: 'Calf Raises',
     workout_image: 'calf-raises.jpeg',
     workout_url: 'https://www.youtube.com/watch?v=MAMzF7iZNkc',
     weight: 35,
