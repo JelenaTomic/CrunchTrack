@@ -13,7 +13,6 @@ router.get('/', withAuth, (req, res) => {
     ]
     })
     .then(dbCategoryData => {
-        // serialize data before passing to template
         const categories = dbCategoryData.map(category => category.get({ plain: true }));
         res.render('dashboard', { categories, loggedIn: true });
     })
