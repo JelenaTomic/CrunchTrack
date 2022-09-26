@@ -1,0 +1,21 @@
+<article class="post">
+    <div class="title">
+        <a class="workout-link" href="/dashboard/workout/{{workout_name}}">
+            <h1 class="workout-title">{{workout_name}}</h1>
+        </a>
+    </div>
+    <div class="meta">
+        <a href="{{workout_url}}" target="_blank">
+        
+        <img class="img" src="/assets/images/{{workout_image}}" alt={{workout_name}}>
+        
+        {{!-- Posted by {{user.username}} on {{format_date created_at}} --}}
+</a>
+            <p>reps: {{reps}}
+                Weight: {{weight}} lbs
+                Sets: {{sets}}
+                
+            </p>
+        {{!-- <a href="/dashboard/workout/{{workout_name}}">{{comments.length}} {{format_plural "comment" comments.length}}</a> --}}
+    </div>
+</article>
