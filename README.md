@@ -5,6 +5,10 @@ https://crunch-track-team-5.github.io/CrunchTrack/
 
 Github: 
 https://github.com/Crunch-Track-Team-5/CrunchTrack 
+<BR> 
+PowerPoint:
+ https://docs.google.com/presentation/d/1bz_zafnAXQU2rJ17ZCdD2IDATAgos_npMCLFVEx4Q2g/edit?usp=sharing
+
 
 ## Table of Contents:
   1. [Description](#Description)
