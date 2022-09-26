@@ -89,7 +89,7 @@ const workoutData = [
     category_id: 2,
   },
   {
-    workout_name: ' Barbell Overhead press',
+    workout_name: 'Barbell Overhead press',
     workout_image: 'overhead-press.jpeg',
     workout_url: 'https://www.youtube.com/watch?v=8E4oWpi0RkA'
 ,
@@ -118,7 +118,7 @@ const workoutData = [
     category_id: 2,
   },
   {
-    workout_name: ' Sumo Squat',
+    workout_name: 'Sumo Squat',
     workout_image: 'barbell-squat.jpeg',
     workout_url: 'https://www.youtube.com/watch?v=tVB1q8zkP3o',
     weight:125,

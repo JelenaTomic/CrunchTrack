@@ -20,13 +20,13 @@ async function commentFormHandler(event) {
     if (workout_id === 'Barbell%20Squat') {
         workout_id = 4;
     }
-    if(workout_id === 'dumbbell%20Bicep%20Curls') {
+    if(workout_id === 'Dumbbell%20Bicep%20Curls') {
         workout_id = 5
     }
     if (workout_id === 'Barbell%20Deadlifts') {
         workout_id = 6;
     }
-    if (workout_id === 'Barbell%20Bench%20press') {
+    if (workout_id === 'Barbell%20Bench%20Press') {
         workout_id = 7;
     }
     if (workout_id === 'Face%20pulls') {
